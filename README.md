@@ -5,6 +5,11 @@ This project is a powerful API built with FastAPI that scrapes public data from 
 
 ## 🚀 Live Demo
 
+
+
+![Live Demo Screenshot](https://raw.githubusercontent.com/omchoksi108/ai-scraper-github-userdata-fastapi-assets/main/img.png)
+
+
 The API is deployed and live on Render. You can interact with it directly.
 
 -   **Base URL**: `https://ai-scraper-github-userdata-fastapi.onrender.com`
